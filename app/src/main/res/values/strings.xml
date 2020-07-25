@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Happy Special Day</string>
+    <string name="happy_special_day_text">Happy Special Day, name!!</string>
+    <string name="from_text">from wisher\'s name</string>
+    <string name="background_image_description">cake image</string>
 </resources>
